@@ -1,6 +1,4 @@
 # Cryptocurrency_Clusters
-Unsupervised Machine Learning
-
 
 ## Background 
 Created a report that includes what cryptocurrencies are on the trading market. Determined whether they can be grouped to create a classification system for this new investment.
